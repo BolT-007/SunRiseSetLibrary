@@ -1,0 +1,6 @@
+C:\Users\BolT\source\repos\SunRiseSetLibrary\SunRiseSetLibrary\bin\Debug\SunRiseSetLibrary.dll
+C:\Users\BolT\source\repos\SunRiseSetLibrary\SunRiseSetLibrary\bin\Debug\SunRiseSetLibrary.pdb
+C:\Users\BolT\source\repos\SunRiseSetLibrary\SunRiseSetLibrary\obj\Debug\SunRiseSetLibrary.csprojAssemblyReference.cache
+C:\Users\BolT\source\repos\SunRiseSetLibrary\SunRiseSetLibrary\obj\Debug\SunRiseSetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BolT\source\repos\SunRiseSetLibrary\SunRiseSetLibrary\obj\Debug\SunRiseSetLibrary.dll
+C:\Users\BolT\source\repos\SunRiseSetLibrary\SunRiseSetLibrary\obj\Debug\SunRiseSetLibrary.pdb
